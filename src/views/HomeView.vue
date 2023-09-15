@@ -18,28 +18,28 @@ document.body.classList.add('page-a-body');
     <div id="carouselControl" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active" data-bs-interval="10000">
-        <img src="tahchang.jpg" class="d-block w-100" alt="...">
+        <img src="src/assets/tahchang.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item" data-bs-interval="2000">
-        <img src="goodviews.jpg" class="d-block w-100" alt="...">
+        <img src="src/assets/goodviews.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="riverside.jpg" class="d-block w-100" alt="...">
+        <img src="src/assets/riverside.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="warmup.jpg" class="d-block w-100" alt="...">
+        <img src="src/assets/warmup.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="thaynimman.jpg" class="d-block w-100" alt="...">
+        <img src="src/assets/thaynimman.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="lism.jpg" class="d-block w-100" alt="...">
+        <img src="src/assets/lism.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="beerlab.jpg" class="d-block w-100" alt="...">
+        <img src="src/assets/beerlab.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="tamma.jpg" class="d-block w-100" alt="...">
+        <img src="src/assets/tamma.jpg" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselControl" data-bs-slide="prev">

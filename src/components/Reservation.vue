@@ -80,14 +80,14 @@ const money = ref(0);
 
   //const tlAttraction = ref(['ท่าช้าง', 'GoodViews', 'RiverSide', 'WarmUp', 'ID4'])
 const tlAttraction = ref([
-    { name:'ท่าช้าง', price:80, size: { s: 80, m: 150, l: 200 }, img: "tahchang.jpg" }, 
-    { name:'GoodViews', price:120, size: { s: 80, m: 150, l: 250 }, img: "goodviews.jpg" }, 
-    { name:'RiverSide', price:150, size: { s: 80, m: 150, l: 300 }, img: "riverside.jpg" }, 
-    { name:'WarmUp', price:100, size: { s: 80, m: 150, l: 500 }, img: "warmup.jpg" }, 
-    { name:'THAY Nimman', price:90, size: { s: 80, m: 150, l: 700 }, img: "thaynimman.jpg" },
-    { name:'Lism Cafe', price:90, size: { s: 80, m: 150, l: 700 }, img: "lism.jpg" },
-    { name:'Beer Lab', price:90, size: { s: 80, m: 150, l: 700 }, img: "beerlab.jpg" },
-    { name:'TAMMA Cafe', price:90, size: { s: 80, m: 150, l: 700 }, img: "tamma.jpg" }
+    { name:'ท่าช้าง', price:80, size: { s: 80, m: 150, l: 200 }, img: "src/assets/tahchang.jpg" }, 
+    { name:'GoodViews', price:120, size: { s: 80, m: 150, l: 250 }, img: "src/assets/goodviews.jpg" }, 
+    { name:'RiverSide', price:150, size: { s: 80, m: 150, l: 300 }, img: "src/assets/riverside.jpg" }, 
+    { name:'WarmUp', price:100, size: { s: 80, m: 150, l: 500 }, img: "src/assets/warmup.jpg" }, 
+    { name:'THAY Nimman', price:90, size: { s: 80, m: 150, l: 700 }, img: "src/assets/thaynimman.jpg" },
+    { name:'Lism Cafe', price:90, size: { s: 80, m: 150, l: 700 }, img: "src/assets/lism.jpg" },
+    { name:'Beer Lab', price:90, size: { s: 80, m: 150, l: 700 }, img: "src/assets/beerlab.jpg" },
+    { name:'TAMMA Cafe', price:90, size: { s: 80, m: 150, l: 700 }, img: "src/assets/tamma.jpg" }
   ]); 
 
 const tableData = ref([]); // Create a ref for the table data
